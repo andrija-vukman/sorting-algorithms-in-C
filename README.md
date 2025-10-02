@@ -7,8 +7,8 @@ The project is structured in ...
 
 ... a header file (see sort.h)
 ... a kind of main file (see sort.c)
-... each algorithm in a seperate file (see functions/*.c)
-... some other necessary functions used (see functions/*.c)
+... each algorithm in a seperate file (see functions/\*.c)
+... some other necessary functions used (see functions/\*.c)
 
 
 Please take into account that this project is not finished, since a programming project is never finished per se. Some passages can be written in a much more efficient way.
